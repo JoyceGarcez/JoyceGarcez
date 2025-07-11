@@ -11,7 +11,7 @@ Sou uma desenvolvedora front-end em formação, apaixonada por transformar ideia
 ### 💼 Projetos em Destaque
 
 - [🎯 Quiz Mania](https://github.com/JoyceGarcez/Quiz-Mania) – Um quiz interativo feito com HTML, CSS e JavaScript.
-- [🧠 Estruturas de Dados](https://github.com/JoyceGarcez/Data-structures) – Praticando lógica e fundamentos da programação.
+- [🧠 Estruturas de Dados com JavaScript](https://github.com/JoyceGarcez/Data-structures) – Praticando lógica e fundamentos da programação.
 
 ---
 
